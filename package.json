@@ -1,0 +1,32 @@
+{
+  "name": "kokeilut5",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "console.log(\"Hello world!\")",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/source-bob/kokeilut5.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "bob",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/source-bob/kokeilut5/issues"
+  },
+  "homepage": "https://github.com/source-bob/kokeilut5#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "globals": "^15.14.0",
+    "nodemon": "^3.1.9",
+    "prettier": "3.4.2"
+  }
+}
